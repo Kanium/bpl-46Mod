@@ -2,7 +2,7 @@
 <Sounds>
 	<General>
 		<!-- Dolt 46 single shot -->
-		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Single" volume="1.0" group="1" comment="">
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_dolt46_single_1.ogg</Wave>
 		</Sound>
 	</General>
