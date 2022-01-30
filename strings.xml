@@ -107,7 +107,7 @@
    <Row ss:AutoFitHeight="0" ss:Height="285">
     <Cell><Data ss:Type="String">weapon.dolt46.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Dolt 46:&lt;/b&gt;&#10;&#10;"Best Alien diplomacy I have ever done" - Horatio, Captain of the U.S.S Thunderchild.&#10;&#10;Range:                                                    50&#10;Damage:                                                 40 Kinetic&#10;Suppression:                                           30 Single&#10;Mitigation:                                                0&#10;Ammo Capacity:                                     7 shots&#10;Reaction Modifier:                                   1x&#10;Reload Cost:                                           25 TU&#10;&#10;Fire Modes:&#10;- 28%% TU                                                 50 Acc x 1 shot&#10;- 40%% TU                                                 100 Acc x 1 shot&#10;- 55%% TU                                               150 Acc x 1 shot</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Dolt 46:&lt;/b&gt;&#10;&#10;"Best alien diplomacy I have ever done" - Horatio, Captain of the U.S.S Thunderchild.</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
   <Row ss:AutoFitHeight="0">

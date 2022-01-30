@@ -2,16 +2,17 @@
 <Weapons>
 		<!-- Dolt 46 -->
 	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.dolt46" bulletType="normal" emptySound="Empty Click 1">
-		<props range="50" hands="1" recoil="0" weight="1" isHeavy="0" clipSize="7" reloadAPCost="25" reloadSound="Weapon Pistol Reload" reactionModifier="1.5" />
-		<SingleShot sound="Weapon Dolt46 Single" delay="0.6" suppressionValue="30" suppressionRadius="1">
-			<Set1 ap="30" accuracy="50" />
-			<Set2 ap="60" accuracy="100" />
-			<Set3 ap="60" accuracy="150" />
+		<props range="50" hands="1" recoil="0" weight="1" isHeavy="0" clipSize="7" reloadAPCost="15" reloadSound="Weapon Pistol Reload" reactionModifier="1.5" />
+		<SingleShot sound="Weapon Dolt46 Single" delay="0.6" suppressionValue="50" suppressionRadius="1.5">
+			<Set1 ap="15" accuracy="100" />
+			<Set2 ap="30" accuracy="200" />
+			<Set3 ap="30" accuracy="300" />
 		</SingleShot>
+		<BurstFire ap="30" accuracy="75" sound="Weapon Dolt46 Burst" delay="0.6" burstdelay="0.6" shotCount="3" suppressionValue="70" suppressionRadius="1.5" />
 		<GUIImage name="gui/weapons/dolt46.png"/>
 		<GroundImage name="grounditemimages/ballistic_pistol.png"/>
 		<Ammos>
-			<Ammo name="ammo.ballistic.dolt46" type="kinetic" damage="40" mitigation="0">
+			<Ammo name="ammo.ballistic.dolt46" type="kinetic" damage="70" mitigation="0">
 				<Projectile spectre="projectiles/bullet/bullet" speed="3000" showAfterDistance="60.0"/>
 				<Impact spectre="particles/bulletplume/bulletplume"/>
 			</Ammo>

@@ -4,6 +4,10 @@
 		<!-- Dolt 46 single shot -->
 		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Single" volume="2.0" group="1" comment="">
 			<Wave>audio/sfx/weapons/weapon_dolt46_single_1.ogg</Wave>
+			<Wave>audio/sfx/weapons/weapon_dolt46_single_2.ogg</Wave>
+		</Sound>
+		<Sound MODMERGEATTRIBUTE="name" MODMERGE="insert" name="Weapon Dolt46 Burst" volume="2.0" group="1" comment="">
+			<Wave>audio/sfx/weapons/weapon_dolt46_burst_1.ogg</Wave>
 		</Sound>
 	</General>
 </Sounds>
