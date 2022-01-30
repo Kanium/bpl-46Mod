@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Weapons>
+		<!-- Dolt 46 -->
+	<Weapon MODMERGEATTRIBUTE="name" MODMERGE="insert" name="weapon.dolt46" bulletType="normal" emptySound="Empty Click 1">
+		<props range="50" hands="1" recoil="0" weight="1" isHeavy="0" clipSize="7" reloadAPCost="25" reloadSound="Weapon Pistol Reload" reactionModifier="1.5" />
+		<SingleShot sound="Weapon Pistol Single" delay="0.6" suppressionValue="30" suppressionRadius="1">
+			<Set1 ap="30" accuracy="50" />
+			<Set2 ap="60" accuracy="100" />
+			<Set3 ap="60" accuracy="150" />
+		</SingleShot>
+		<GUIImage name="gui/weapons/dolt46.png"/>
+		<GroundImage name="grounditemimages/ballistic_pistol.png"/>
+		<Ammos>
+			<Ammo name="ammo.ballistic.dolt46" type="kinetic" damage="40" mitigation="0">
+				<Projectile spectre="projectiles/bullet/bullet" speed="1500" showAfterDistance="60.0"/>
+				<Impact spectre="particles/bulletplume/bulletplume"/>
+			</Ammo>
+		</Ammos>
+	</Weapon>
+</Weapons>
