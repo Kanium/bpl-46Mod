@@ -98,22 +98,22 @@
    <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
 
   <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">weapon.thompson1928</Data><NamedCell
+    <Cell><Data ss:Type="String">weapon.dolt46</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">1928 Thompson</Data><NamedCell
+    <Cell><Data ss:Type="String">Dolt 46</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>        
   </Row>
    <Row ss:AutoFitHeight="0" ss:Height="285">
-    <Cell><Data ss:Type="String">weapon.thompson1928.desc</Data><NamedCell
+    <Cell><Data ss:Type="String">weapon.dolt46.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;1928 Thompson:&lt;/b&gt;&#10;&#10;The Model 1928 was the first type widely used by military forces, with the U.S. Navy and U.S. Marine Corps as major buyers through the 1930s. Myah! See??.&#10;&#10;Range:                                                    25&#10;Damage:                                                 30 Kinetic&#10;Suppression:                                           30 Single / 200 Burst&#10;Mitigation:                                                0&#10;Ammo Capacity:                                     100 shots&#10;Reaction Modifier:                                   1x&#10;Reload Cost:                                           25 TU&#10;&#10;Fire Modes:&#10;- 28%% TU                                                 45 Acc x 1 shot&#10;- 40%% TU                                                 80 Acc x 1 shot&#10;- 55%% TU                                               130 Acc x 1 shot&#10;&#10;- 60%% TU                                                45 Acc x 3 shots</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Dolt 46:&lt;/b&gt;&#10;&#10;"Best Alien diplomacy I have ever done" - Horatio, Captain of the U.S.S Thunderchild.&#10;&#10;Range:                                                    50&#10;Damage:                                                 40 Kinetic&#10;Suppression:                                           30 Single&#10;Mitigation:                                                0&#10;Ammo Capacity:                                     7 shots&#10;Reaction Modifier:                                   1x&#10;Reload Cost:                                           25 TU&#10;&#10;Fire Modes:&#10;- 28%% TU                                                 50 Acc x 1 shot&#10;- 40%% TU                                                 100 Acc x 1 shot&#10;- 55%% TU                                               150 Acc x 1 shot</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
   <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">ammo.ballistic.thompson1928</Data><NamedCell
+    <Cell><Data ss:Type="String">ammo.ballistic.dolt46</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">1928 Thompson Drum Magazine</Data><NamedCell
+    <Cell><Data ss:Type="String">.46 Ammo</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
   </Row>
 
